@@ -1,0 +1,3 @@
+[submodule "BlinkStickNET"]
+	path = BlinkStickNET
+	url = git@github.com:pnadm/BlinkStickNET.git
